@@ -1,0 +1,13 @@
+{
+  "short_name": "MacroLens",
+  "name": "MacroLens - AI Food Tracker",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "64x64", "type": "image/x-icon" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d0f0e",
+  "background_color": "#0d0f0e",
+  "orientation": "portrait",
+  "description": "AI-powered food macro tracker."
+}
